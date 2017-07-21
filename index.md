@@ -8,9 +8,8 @@ will generate your desired config file for Garry's Mod depending on your prefere
 [Windows](http://bit.ly/GMoptimizerV3)
 
 ### About me
-My name's Maciek and I'm 17 y/o, I have been programming since I was 13, I've spent 2 years on game dev in unity, but now I'm making window apps in C++ & Qt / Qt Quick
+My name's Maciek and I'm 18 years old, I have been programming since I was 13, I've spent 2 years on game dev in unity, but now I'm making cross-platform apps in C++, I feel good in libs like Qt, SFML, Zlib, winApi, I'm ready to learn more framewroks/libs.
 
-### Support or Contact
-[Donate](https://paypal.me/MaciekRosiak/)
+### Contact
 [Mail](mailto:orzel1244@gmail.com)
 [Facebook](https://www.facebook.com/maciej.rosiak.391)
